@@ -1,3 +1,7 @@
+#User Alexey Shmatok
+#Group P3175
+
+
 import math
 
 def main():
